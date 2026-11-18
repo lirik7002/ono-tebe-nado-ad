@@ -4,7 +4,7 @@
 
 ## Ссылка на репозиторий
 
-https://github.com/username/ono-tebe-nado-ad
+https://github.com/lirik7002/ono-tebe-nado-ad
 
 > Замените `username` на ваше имя пользователя GitHub. Имя репозитория (`ono-tebe-nado-ad`) не меняйте.
 
